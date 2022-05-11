@@ -1,3 +1,3 @@
-MaySrcEleven{
+public class MaySrcEleven{
   //This is may SRC eleven file
 }
